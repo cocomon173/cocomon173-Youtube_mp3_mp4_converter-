@@ -25,7 +25,7 @@ class YouTubeStats:
     def download_video(self, youtube_url:str,title: str):
         YouTube(youtube_url).streams.first().download('saved_video',filename=title)
 
-api_key = "AIzaSyA5jJASK9cZeQwhApMYqM-huBgbEk66qr8"
+api_key = "Insert your Youtube API key"
 
 link_file = "test_links.csv"
 
