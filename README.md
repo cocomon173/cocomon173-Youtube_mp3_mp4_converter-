@@ -1,3 +1,5 @@
 # cocomon173-Youtube_mp3_mp4_converter-
 cocomon173/Youtube_mp3_mp4_converter
-# ds
+# How to install....
+git clone https://github.com/cocomon173/Ytmp34converter.git
+# How to Run....
